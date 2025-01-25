@@ -24,7 +24,7 @@ This project provides a WebSocket-based API for fetching real-time cryptocurrenc
 1. Clone the repository:
 
    ```bash
-   git clone [https://github.com/dostontech/crypto-price-api.git](https://github.com/dostontech/WebSocket-Crypto-Price-api)
+   git clone https://github.com/dostontech/WebSocket-Crypto-Price-api.git
    cd crypto-price-api
    ```
 
